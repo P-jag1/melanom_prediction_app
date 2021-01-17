@@ -1,3 +1,3 @@
 # melanom_prediction_app
 
-spustitelná aplikace
+celý projekt
